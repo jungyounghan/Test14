@@ -6,9 +6,7 @@ namespace Test14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("흑흑흑");
-            Console.WriteLine("으하하");
-            Console.WriteLine("후후후");
+            Console.WriteLine("할말이 많다");
         }
     }
 }
