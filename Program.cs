@@ -9,6 +9,10 @@ namespace Test14
             Console.WriteLine("흑흑흑");
             Console.WriteLine("으하하");
             Console.WriteLine("후후후");
+            Console.WriteLine("기능개발 중");
+            Console.WriteLine("a");
+            Console.WriteLine("b");
+            Console.WriteLine("c");
         }
     }
 }
